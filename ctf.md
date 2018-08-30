@@ -21,5 +21,5 @@ The challenge will be opened on Wednesday, September 5th, at 10am.
 Good Luck :)
 
 
-Thanks to: [[File:F5-logo.png|center|80px|link=https://www.f5.com]]
+Thanks to: [[File:F5-logo.png|link=https://www.f5.com|180px]]
 
